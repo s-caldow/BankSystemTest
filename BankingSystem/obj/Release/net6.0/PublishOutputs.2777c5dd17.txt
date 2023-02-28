@@ -1,0 +1,11 @@
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\BankingSystem.exe
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\appsettings.json
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\BankingSystem.dll
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\BankingSystem.deps.json
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\BankingSystem.runtimeconfig.json
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\BankingSystem.pdb
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sarah.caldow\BankingSystem\BankingSystem\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

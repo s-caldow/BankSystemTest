@@ -4208,11 +4208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sarah.caldow\\BankingSystemTest\\BankingSystem\\BankingSystemTest\\BankingSystemTest.csproj",
+      "projectUniqueName": "C:\\Users\\sarah.caldow\\BankingSystem\\BankingSystemTest\\BankingSystemTest.csproj",
       "projectName": "BankingSystemTest",
-      "projectPath": "C:\\Users\\sarah.caldow\\BankingSystemTest\\BankingSystem\\BankingSystemTest\\BankingSystemTest.csproj",
+      "projectPath": "C:\\Users\\sarah.caldow\\BankingSystem\\BankingSystemTest\\BankingSystemTest.csproj",
       "packagesPath": "C:\\Users\\sarah.caldow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sarah.caldow\\BankingSystemTest\\BankingSystem\\BankingSystemTest\\obj\\",
+      "outputPath": "C:\\Users\\sarah.caldow\\BankingSystem\\BankingSystemTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sarah.caldow\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4229,8 +4229,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\sarah.caldow\\BankingSystemTest\\BankingSystem\\BankingSystem\\BankingSystem.csproj": {
-              "projectPath": "C:\\Users\\sarah.caldow\\BankingSystemTest\\BankingSystem\\BankingSystem\\BankingSystem.csproj"
+            "C:\\Users\\sarah.caldow\\BankingSystem\\BankingSystem\\BankingSystem.csproj": {
+              "projectPath": "C:\\Users\\sarah.caldow\\BankingSystem\\BankingSystem\\BankingSystem.csproj"
             }
           }
         }
@@ -4277,9 +4277,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
