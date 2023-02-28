@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sarah.caldow\\BankingSystemTest\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\sarah.caldow\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
       "projectName": "BankingSystem",
-      "projectPath": "C:\\Users\\sarah.caldow\\BankingSystemTest\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+      "projectPath": "C:\\Users\\sarah.caldow\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
       "packagesPath": "C:\\Users\\sarah.caldow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sarah.caldow\\BankingSystemTest\\BankingSystem\\BankingSystem\\obj\\",
+      "outputPath": "C:\\Users\\sarah.caldow\\BankingSystem\\BankingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sarah.caldow\\AppData\\Roaming\\NuGet\\NuGet.Config",
