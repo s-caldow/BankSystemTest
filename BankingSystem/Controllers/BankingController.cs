@@ -48,7 +48,7 @@ public class BankingController : ControllerBase
         }
         catch (AccountBalanceTooLowException ex)
         {
-            return this.BadRequest("Balance too low to create an account");
+            return this.BadRequest("Balance too low to complete withdrawal");
         }
     }
 }
